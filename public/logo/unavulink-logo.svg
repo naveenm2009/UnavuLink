@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- Brand Icon -->
+  <g transform="translate(6, 6)">
+    <circle cx="24" cy="24" r="22" fill="#2E6B3F"/>
+    <path d="M14 26C14 20.4772 18.4772 16 24 16C29.5228 16 34 20.4772 34 26C34 31.5228 29.5228 36 24 36" stroke="#F6F3EB" stroke-width="3" stroke-linecap="round"/>
+    <path d="M24 10V18" stroke="#F28C28" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="24" cy="26" r="4.5" fill="#F28C28"/>
+    <path d="M19 21C20.5 19.5 22.2 18.8 24 18.8C25.8 18.8 27.5 19.5 29 21" stroke="#5B7E3C" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="64" y="36" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="26" fill="#2E6B3F" letter-spacing="-0.5">Unavu<tspan fill="#F28C28">Link</tspan></text>
+  <text x="65" y="49" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="500" font-size="9" fill="#68736C" letter-spacing="1.2">PREDICT • PRIORITISE • DELIVER</text>
+</svg>

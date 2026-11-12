@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans bg-warmCream text-deepCharcoal;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}
+
+/* Custom styling for Leaflet Popups to match UnavuLink brand */
+.leaflet-popup-content-wrapper {
+  border-radius: 16px !important;
+  box-shadow: 0 10px 25px -5px rgba(38, 51, 43, 0.15), 0 8px 10px -6px rgba(38, 51, 43, 0.1) !important;
+  border: 1px solid #DCE5DC !important;
+  padding: 4px !important;
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif !important;
+}
+
+.leaflet-popup-tip {
+  background: white !important;
+}
+
+.custom-unavu-marker {
+  background: transparent !important;
+  border: none !important;
+}
